@@ -5,11 +5,13 @@
 
 * Sou desenvolvedor Front-end
 
-* Gosto de café, porém só bebo quando acordo cedo  ¯\_(ツ)_/¯
+* Gosto de ☕, porém só bebo quando acordo cedo  ¯\_(ツ)_/¯
 
 * Estou atualmente me formando em desenvolvimento Full-stack, faltando Back-end, na escola de programação Kenzie Academy
 
 * A visibilidade do meu perfil e meus projetos está em desenvolvimento tanto quanto eu 🙂
+
+* Sei fazer muitas coisas e explicar muitos conceitos. Meu desafio é superar a preguiça 😅
 
 
 ![Buraio's Stats](https://github-readme-stats.vercel.app/api?username=Buraio&theme=dracula&show_icons=true&hide_border=false&count_private=true)
