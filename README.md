@@ -5,7 +5,7 @@
 
 * Sou desenvolvedor Front-end
 
-* Gosto de café, porém só bebo quando acordo cedo ¯\_(ツ)_/¯
+* Gosto de café, porém só bebo quando acordo cedo  ¯\_(ツ)_/¯
 
 * Estou atualmente me formando em desenvolvimento Full-stack, faltando Back-end, na escola de programação Kenzie Academy
 
