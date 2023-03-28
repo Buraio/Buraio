@@ -3,6 +3,10 @@
 
 ***Neste perfil trago algumas informações e curiosidades sobre mim...***
 
+![Buraio's Stats](https://github-readme-stats.vercel.app/api?username=Buraio&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+
+* Tenho 19 anos
+
 * Sou desenvolvedor Front-end
 
 * Gosto de ☕, porém só bebo quando acordo cedo  ¯\_(ツ)_/¯
@@ -13,10 +17,9 @@
 
 * A visibilidade do meu perfil e meus projetos está em desenvolvimento tanto quanto eu 🙂
 
-* Sei fazer muitas coisas e explicar muitos conceitos, porém 😅
+* Sei fazer muitas coisas e explicar muitos conceitos, porém tenho desafios a superar quando se trata de preguiça 😅
 
-
-![Buraio's Stats](https://github-readme-stats.vercel.app/api?username=Buraio&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+* Estou disponível para trabalhar na modalidade Home-Office.
 
 ![Buraio's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Buraio&theme=dracula&hide_border=false)
 
