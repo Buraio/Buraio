@@ -1,7 +1,7 @@
 
 # Olá, meu nome é Bryan Silva
 
-*** Neste perfil trago algumas informações sobre mim... ***
+***Neste perfil trago algumas informações sobre mim...***
 
 * Sou desenvolvedor Front-end
 
