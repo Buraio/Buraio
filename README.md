@@ -1,4 +1,17 @@
 
+#Olá, meu nome é Bryan Silva
+
+##Neste perfil trago algumas informações sobre mim...
+
+1.Sou desenvolvedor Front-end
+
+2.Gosto de café, porém só bebo quando acordo cedo ¯\_(ツ)_/¯
+
+3.Estou atualmente me formando em desenvolvimento Full-stack, faltando Back-end, na escola de programação Kenzie Academy
+
+4.A visibilidade do meu perfil e meus projetos está em desenvolvimento tanto quanto eu 🙂
+
+
 ![Buraio's Stats](https://github-readme-stats.vercel.app/api?username=Buraio&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 
 ![Buraio's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Buraio&theme=dracula&hide_border=false)
