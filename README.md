@@ -25,5 +25,9 @@
 
 * Aprendi tecnologias e linguagens importantes para o mercado, como Javascript & Typescript, ReactJs e HTML & CSS
 
+Minhas Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma)](https://skillicons.dev)
+
 
 ![Buraio's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Buraio&theme=transparent&hide_border=true)
