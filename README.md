@@ -5,7 +5,7 @@
 
 ![Buraio's Stats](https://github-readme-stats.vercel.app/api?username=Buraio&theme=transparent&show_icons=true&count_private=true)
 
-![Buraio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Buraio&theme=transparent&show_icons=true&layout=compact)
+![Buraio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Buraio&theme=transparent&hide_border=true&show_icons=true&layout=compact)
 
 * Tenho 19 anos
 
