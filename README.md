@@ -1,5 +1,5 @@
 
-# Olá, meu nome é Bryan Silva
+# Olá, meu nome é Bryan Silva 👋
 
 ***Neste arquivo trago algumas informações e curiosidades sobre mim...***
 
@@ -9,13 +9,15 @@
 
 * Tenho 19 anos
 
-* Sou desenvolvedor Front-end
+* Sou desenvolvedor Front-end, em busca de uma primeira oportunidade de trabalho
+
+* Tenho experiência de 1 ano com diversos projetos importantes (Logo aparecerão por aqui)
 
 * Gosto de ☕, porém só bebo quando acordo cedo  ¯\_(ツ)_/¯
 
-* Por algum motivo que com certeza não está no tópico acima (☕), eu prefiro estar de pé logo cedo
+* Acredito que sou muito mais produtivo no meu dia quando acordo cedo, mais ou menos 5h da manhã
 
-* Estou atualmente me formando em desenvolvimento Full-stack, faltando Back-end, na escola de programação Kenzie Academy
+* Estou atualmente me formando em desenvolvimento Full-stack, faltando Back-end, na escola de programação Kenzie Academy Brasil
 
 * A visibilidade do meu perfil e meus projetos está em desenvolvimento tanto quanto eu 🙂
 
