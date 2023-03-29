@@ -25,7 +25,7 @@
 
 * Aprendi tecnologias e linguagens importantes para o mercado, como Javascript & Typescript, ReactJs e HTML & CSS
 
-Skills aprendidas:
+Algumas ferramentas/linguagens que aprendi a utilizar:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,ts,react,vercel,git,github,express,nodejs,styledcomponents,postgres,vscode,vite)](https://skillicons.dev)
 
