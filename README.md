@@ -3,8 +3,9 @@
 
 ***Neste arquivo trago algumas informações e curiosidades sobre mim...***
 
-![Buraio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Buraio&theme=dracula&show_icons=true&hide_border=false&layout=compact)
-![Buraio's Stats](https://github-readme-stats.vercel.app/api?username=Buraio&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+![Buraio's Stats](https://github-readme-stats.vercel.app/api?username=Buraio&theme=transparent&show_icons=true&hide_border=false&count_private=true)
+
+![Buraio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Buraio&theme=transparent&show_icons=true&hide_border=false&layout=compact)
 
 * Tenho 19 anos
 
