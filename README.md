@@ -25,7 +25,7 @@
 
 * Aprendi tecnologias e linguagens importantes para o mercado, como Javascript & Typescript, ReactJs e HTML & CSS
 
-* Meu perfil no LinkedIn é esse: [](https://www.linkedin.com/in/buraio/)
+* Meu perfil no LinkedIn é esse: https://www.linkedin.com/in/buraio/
 
 Algumas ferramentas/linguagens que aprendi a utilizar:
 
