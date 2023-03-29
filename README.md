@@ -27,7 +27,7 @@
 
 Minhas Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,ts,react,vercel,notion,trello)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,ts,react,vercel,git,github,express,nodejs)](https://skillicons.dev)
 
 
 ![Buraio's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Buraio&theme=transparent&hide_border=true)
