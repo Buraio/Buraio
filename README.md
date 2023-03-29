@@ -21,6 +21,9 @@
 
 * Estou disponível para trabalhar na modalidade Home-Office.
 
+* Aprendi tecnologias e linguagens importantes para o mercado, como Javascript & Typescript, ReactJs e HTML & CSS
+
+
 ![Buraio's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Buraio&theme=dracula&hide_border=false)
 
 ![Buraio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Buraio&theme=dracula&show_icons=true&hide_border=false&layout=compact)
