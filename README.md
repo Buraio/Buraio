@@ -3,7 +3,7 @@
 
 ***Neste arquivo trago algumas informações e curiosidades sobre mim...***
 
-![Buraio's Stats](https://github-readme-stats.vercel.app/api?username=Buraio&theme=transparent&show_icons=true&count_private=true)
+![Buraio's Stats](https://github-readme-stats.vercel.app/api?username=Buraio&theme=transparent&hide_border=true&show_icons=true&count_private=true)
 
 ![Buraio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Buraio&theme=transparent&hide_border=true&show_icons=true&layout=compact)
 
@@ -26,4 +26,4 @@
 * Aprendi tecnologias e linguagens importantes para o mercado, como Javascript & Typescript, ReactJs e HTML & CSS
 
 
-![Buraio's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Buraio&theme=dracula&hide_border=false)
+![Buraio's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Buraio&theme=transparent&hide_border=true)
